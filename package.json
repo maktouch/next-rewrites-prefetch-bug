@@ -1,5 +1,5 @@
 {
-  "name": "next-lingui-rewrites",
+  "name": "next-rewrites-prefetch-bug",
   "version": "0.1.0",
   "private": true,
   "scripts": {
